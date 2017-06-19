@@ -1,0 +1,25 @@
+{
+  "name": "chaturbate-hearts",
+  "homepage": "https://github.com/paulallen87/polymer-chaturbate-hearts",
+  "authors": [
+    "Paul Allen <paulallen87555@gmail.com>"
+  ],
+  "description": "A Polymer component for displaying Chaturbate tags as floating hearts",
+  "main": "chaturbate-hearts.html",
+  "keywords": [
+    "chaturbate"
+  ],
+  "license": "GPL-3.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0-rc.3",
+    "iron-icons": "^2.0.1"
+  }
+}
